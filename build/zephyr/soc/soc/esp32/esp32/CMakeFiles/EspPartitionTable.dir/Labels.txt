@@ -1,0 +1,13 @@
+# Target labels
+ EspPartitionTable
+# Source files and their labels
+/home/nerium/zephyrproject/zephyr/samples/basic/button_led/Zephyr_RTOS_Button-led/build/zephyr/soc/soc/esp32/esp32/CMakeFiles/EspPartitionTable
+/home/nerium/zephyrproject/zephyr/samples/basic/button_led/Zephyr_RTOS_Button-led/build/zephyr/soc/soc/esp32/esp32/CMakeFiles/EspPartitionTable.rule
+/home/nerium/zephyrproject/zephyr/samples/basic/button_led/Zephyr_RTOS_Button-led/build/zephyr/soc/soc/esp32/esp32/CMakeFiles/EspPartitionTable-complete.rule
+/home/nerium/zephyrproject/zephyr/samples/basic/button_led/Zephyr_RTOS_Button-led/build/zephyr/soc/soc/esp32/esp32/EspPartitionTable-prefix/src/EspPartitionTable-stamp/EspPartitionTable-build.rule
+/home/nerium/zephyrproject/zephyr/samples/basic/button_led/Zephyr_RTOS_Button-led/build/zephyr/soc/soc/esp32/esp32/EspPartitionTable-prefix/src/EspPartitionTable-stamp/EspPartitionTable-configure.rule
+/home/nerium/zephyrproject/zephyr/samples/basic/button_led/Zephyr_RTOS_Button-led/build/zephyr/soc/soc/esp32/esp32/EspPartitionTable-prefix/src/EspPartitionTable-stamp/EspPartitionTable-download.rule
+/home/nerium/zephyrproject/zephyr/samples/basic/button_led/Zephyr_RTOS_Button-led/build/zephyr/soc/soc/esp32/esp32/EspPartitionTable-prefix/src/EspPartitionTable-stamp/EspPartitionTable-install.rule
+/home/nerium/zephyrproject/zephyr/samples/basic/button_led/Zephyr_RTOS_Button-led/build/zephyr/soc/soc/esp32/esp32/EspPartitionTable-prefix/src/EspPartitionTable-stamp/EspPartitionTable-mkdir.rule
+/home/nerium/zephyrproject/zephyr/samples/basic/button_led/Zephyr_RTOS_Button-led/build/zephyr/soc/soc/esp32/esp32/EspPartitionTable-prefix/src/EspPartitionTable-stamp/EspPartitionTable-patch.rule
+/home/nerium/zephyrproject/zephyr/samples/basic/button_led/Zephyr_RTOS_Button-led/build/zephyr/soc/soc/esp32/esp32/EspPartitionTable-prefix/src/EspPartitionTable-stamp/EspPartitionTable-update.rule

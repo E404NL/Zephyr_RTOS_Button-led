@@ -1,0 +1,21 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "/home/nerium/zephyrproject/modules/hal/espressif/components/bootloader/subproject",
+    "build_dir":          "/home/nerium/zephyrproject/zephyr/samples/basic/button_led/Zephyr_RTOS_Button-led/build/esp-idf/build/bootloader",
+    "config_file":        "/home/nerium/zephyrproject/zephyr/samples/basic/button_led/Zephyr_RTOS_Button-led/build/esp-idf/build/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "e705cc16c4",
+    "target":             "esp32",
+    "rev":                "0",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "/home/nerium/zephyrproject/modules/hal/espressif/components/efuse/Kconfig;/home/nerium/zephyrproject/modules/hal/espressif/components/esp32/Kconfig;/home/nerium/zephyrproject/modules/hal/espressif/components/esp_common/Kconfig;/home/nerium/zephyrproject/modules/hal/espressif/components/esp_hw_support/Kconfig;/home/nerium/zephyrproject/modules/hal/espressif/components/esp_system/Kconfig;/home/nerium/zephyrproject/modules/hal/espressif/components/freertos/Kconfig;/home/nerium/zephyrproject/modules/hal/espressif/components/hal/Kconfig;/home/nerium/zephyrproject/modules/hal/espressif/components/log/Kconfig;/home/nerium/zephyrproject/modules/hal/espressif/components/newlib/Kconfig;/home/nerium/zephyrproject/modules/hal/espressif/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "/home/nerium/zephyrproject/modules/hal/espressif/components/bootloader/Kconfig.projbuild;/home/nerium/zephyrproject/modules/hal/espressif/components/esp_rom/Kconfig.projbuild;/home/nerium/zephyrproject/modules/hal/espressif/components/esptool_py/Kconfig.projbuild;/home/nerium/zephyrproject/modules/hal/espressif/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "freertos", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "/home/nerium/zephyrproject/modules/hal/espressif/components/bootloader", "/home/nerium/zephyrproject/modules/hal/espressif/components/bootloader_support", "/home/nerium/zephyrproject/modules/hal/espressif/components/efuse", "/home/nerium/zephyrproject/modules/hal/espressif/components/esp32", "/home/nerium/zephyrproject/modules/hal/espressif/components/esp_common", "/home/nerium/zephyrproject/modules/hal/espressif/components/esp_hw_support", "/home/nerium/zephyrproject/modules/hal/espressif/components/esp_rom", "/home/nerium/zephyrproject/modules/hal/espressif/components/esp_system", "/home/nerium/zephyrproject/modules/hal/espressif/components/esptool_py", "/home/nerium/zephyrproject/modules/hal/espressif/components/freertos", "/home/nerium/zephyrproject/modules/hal/espressif/components/hal", "/home/nerium/zephyrproject/modules/hal/espressif/components/log", "/home/nerium/zephyrproject/modules/hal/espressif/components/bootloader/subproject/main", "/home/nerium/zephyrproject/modules/hal/espressif/components/bootloader/subproject/components/micro-ecc", "/home/nerium/zephyrproject/modules/hal/espressif/components/newlib", "/home/nerium/zephyrproject/modules/hal/espressif/components/partition_table", "/home/nerium/zephyrproject/modules/hal/espressif/components/soc", "/home/nerium/zephyrproject/modules/hal/espressif/components/spi_flash", "/home/nerium/zephyrproject/modules/hal/espressif/components/xtensa", "" ]
+}

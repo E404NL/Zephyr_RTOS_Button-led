@@ -1,0 +1,13 @@
+# Target labels
+ EspIdfBootloader
+# Source files and their labels
+/home/nerium/zephyrproject/zephyr/samples/basic/button_led/Zephyr_RTOS_Button-led/build/zephyr/soc/soc/esp32/esp32/CMakeFiles/EspIdfBootloader
+/home/nerium/zephyrproject/zephyr/samples/basic/button_led/Zephyr_RTOS_Button-led/build/zephyr/soc/soc/esp32/esp32/CMakeFiles/EspIdfBootloader.rule
+/home/nerium/zephyrproject/zephyr/samples/basic/button_led/Zephyr_RTOS_Button-led/build/zephyr/soc/soc/esp32/esp32/CMakeFiles/EspIdfBootloader-complete.rule
+/home/nerium/zephyrproject/zephyr/samples/basic/button_led/Zephyr_RTOS_Button-led/build/esp-idf/src/EspIdfBootloader-stamp/EspIdfBootloader-build.rule
+/home/nerium/zephyrproject/zephyr/samples/basic/button_led/Zephyr_RTOS_Button-led/build/esp-idf/src/EspIdfBootloader-stamp/EspIdfBootloader-configure.rule
+/home/nerium/zephyrproject/zephyr/samples/basic/button_led/Zephyr_RTOS_Button-led/build/esp-idf/src/EspIdfBootloader-stamp/EspIdfBootloader-download.rule
+/home/nerium/zephyrproject/zephyr/samples/basic/button_led/Zephyr_RTOS_Button-led/build/esp-idf/src/EspIdfBootloader-stamp/EspIdfBootloader-install.rule
+/home/nerium/zephyrproject/zephyr/samples/basic/button_led/Zephyr_RTOS_Button-led/build/esp-idf/src/EspIdfBootloader-stamp/EspIdfBootloader-mkdir.rule
+/home/nerium/zephyrproject/zephyr/samples/basic/button_led/Zephyr_RTOS_Button-led/build/esp-idf/src/EspIdfBootloader-stamp/EspIdfBootloader-patch.rule
+/home/nerium/zephyrproject/zephyr/samples/basic/button_led/Zephyr_RTOS_Button-led/build/esp-idf/src/EspIdfBootloader-stamp/EspIdfBootloader-update.rule
