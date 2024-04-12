@@ -37,3 +37,5 @@ About the esp32_devkitc_wroom_esp32_procpu.dts file
 	};
 
 prj.conf:
+
+CONFIG_GPIO=y
